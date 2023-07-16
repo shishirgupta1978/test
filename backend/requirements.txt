@@ -1,0 +1,14 @@
+Django==4.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==4.8.0
+django-environ==0.10.0
+django-filter==23.1
+django-autoslug==1.9.9
+Pillow==9.5.0
+psycopg2-binary==2.9.6
+whitenoise[brotli]
+django-cors-headers==3.14.0
+djoser==2.1.0
+torch
+transformers
+docx

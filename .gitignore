@@ -17,7 +17,6 @@ __pycache__/
 *.local
 # C extensions
 *.so
-backend/
 # Distribution / packaging
 .Python
 build/
